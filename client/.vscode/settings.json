@@ -1,0 +1,68 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "window.zoomLevel": 0,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx",
+        "xml": {
+            "attr_quotes": "single"
+        }
+    },
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "/dist/css"
+        }
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    "css.remoteStyleSheets": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    ],
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "liveServer.settings.port": 0,
+    "editor.wordWrap": "on",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "cSpell.enabledLanguageIds": [
+        "asciidoc",
+        "c",
+        "cpp",
+        "csharp",
+        "css",
+        "git-commit",
+        "go",
+        "handlebars",
+        "html",
+        "jade",
+        "java",
+        "javascript",
+        "javascriptreact",
+        "json",
+        "jsonc",
+        "latex",
+        "less",
+        "markdown",
+        "php",
+        "plaintext",
+        "pug",
+        "python",
+        "restructuredtext",
+        "ruby",
+        "rust",
+        "scala",
+        "scss",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yaml",
+        "yml"
+    ],
+    "prettier.jsxBracketSameLine": true,
+    "editor.formatOnSave": true
+}
